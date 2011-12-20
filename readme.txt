@@ -4,7 +4,7 @@ Contributors: 小辛
 Donate link: http://ilovejava.net/qr-wordpress-plugin/
 Tags: wp-qr, QR wordPress plugin, QR, code, plugin, 二维码
 Requires at least: 2.3
-Tested up to: 3.2.1
+Tested up to: 3.3
 
 获取日志的 QR 二维码/The plug-in can easily obtain the log-dimensional QR code
 
