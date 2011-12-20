@@ -1,27 +1,26 @@
 === QR wordPress plugin ===
 
-Contributors: Ğ¡ĞÁ
+Contributors: å°è¾›
 Donate link: http://ilovejava.net/qr-wordpress-plugin/
-Tags: wp-qr, QR wordPress plugin, QR, code, plugin, ¶şÎ¬Âë
+Tags: wp-qr, QR wordPress plugin, QR, code, plugin, äºŒç»´ç 
 Requires at least: 2.3
-Tested up to: 3.3
-Stable tag: 4.3
+Tested up to: 3.2.1
 
-»ñÈ¡ÈÕÖ¾µÄ QR ¶şÎ¬Âë/The plug-in can easily obtain the log-dimensional QR code
+è·å–æ—¥å¿—çš„ QR äºŒç»´ç /The plug-in can easily obtain the log-dimensional QR code
 
 == Description ==
 
-QR wordPress ²å¼ş¿ÉÒÔÇáËÉµØÎªÈÕÖ¾»ñÈ¡ QR ¶şÎ¬Âë
+QR wordPress æ’ä»¶å¯ä»¥è½»æ¾åœ°ä¸ºæ—¥å¿—è·å– QR äºŒç»´ç 
 The plug-in can easily obtain the log-dimensional QR code
 
 == Installation ==
 
-Upload the QR wordPress plugin to your blog, Activate it£¬Enjoy it.
+Upload the QR wordPress plugin to your blog, Activate itï¼ŒEnjoy it.
 
 1, 2, 3: You're done!
 
 == Changelog ==
 
 = 1.0 = 
-* ³õ²½Íê³É£¬ÊµÏÖÁËÉú³É¶şÎ¬ÂëµÄ¼òµ¥¹¦ÄÜ¡£/Initially completed to achieve a simple function to generate two-dimensional code.
-* ²å¼şÊ¹ÓÃÁËPHP QR Code¿â£¬²¢×ñÑ­ GPLĞ­Òé¡£/Plug-in uses PHP QR Code library, and under the GPL.
+* åˆæ­¥å®Œæˆï¼Œå®ç°äº†ç”ŸæˆäºŒç»´ç çš„ç®€å•åŠŸèƒ½ã€‚/Initially completed to achieve a simple function to generate two-dimensional code.
+* æ’ä»¶ä½¿ç”¨äº†PHP QR Codeåº“ï¼Œå¹¶éµå¾ª GPLåè®®ã€‚/Plug-in uses PHP QR Code library, and under the GPL.
